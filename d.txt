@@ -10,5 +10,7 @@ Railsの公式なパッケージはRubyのライブラリやアプリケーシ�
 
 RoRのMVCアーキテクチャ
 Rails上のMVCアーキテクチャは次のとおりである（Action Packは、この中のViewとControllerのことを指している）。
+adfdsafj
+dsafasdfadasdf
 ```
 
